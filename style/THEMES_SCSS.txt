@@ -1,0 +1,21 @@
+<header class="umnhf" id="umnhf-h" role="banner">
+  <div id="skipLinks"><a href="#main-nav">Main navigation</a><a href="#main-content">Main content</a></div>
+  <div class="printer"><div class="left"></div><div class="right"><strong>University of Minnesota</strong><br />http://twin-cities.umn.edu/<br />612-625-5000</div></div>
+  <div class="umnhf" id="umnhf-h-mast">
+    <a class="umnhf" id="umnhf-h-logo" href="http://twin-cities.umn.edu/"><span>Go to the U of M home page</span></a>
+    <ul class="umnhf" id="umnhf-h-ql">
+      <li><a href="http://onestop.umn.edu/">One Stop</a></li>
+      <li class="umnhf"><a href="https://www.myu.umn.edu/">MyU <span></span>: For Students, Faculty, and Staff</a></li>
+    </ul>
+    <button class="umnhf" id="umnhf-m-search">Search</button>
+  </div>
+  <form class="umnhf" id="umnhf-h-search" action="https://google.umn.edu/search" method="GET">
+    <input class="umnhf" id="umnhf-h-st" type="text" name="q" maxlength="256" />
+    <input type="hidden" name="site" value="campus_tc" />
+    <input type="hidden" name="client" value="u_relations_tc" />
+    <input type="hidden" name="proxystylesheet" value="u_relations_tc" />
+    <input name="filter" type="hidden" value="0">
+    <input type="hidden" name="output" value="xml_no_dtd" />
+    <input class="umnhf" id="umnhf-h-sb" type="submit" value="" />
+  </form>
+</header>
