@@ -1,7 +1,7 @@
 {
   "name": "electriccitizen/superfish",
   "replace": {
-    "dtadege/superfish": "dev-master"
+    "mehrpadin/superfish": "2.1"
   },
   "homepage": "https://github.com/electriccitizen/superfish",
   "description": "Superfish library for the Drupal Superfish module with little customization.",
